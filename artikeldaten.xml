@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<artikeldaten>
+	<artikel nummer="1001">
+		<name>Der Herr der Ringe</name>
+		<preis>39.90</preis>
+	</artikel>
+	<artikel nummer="2002">
+		<name>Der kleine Hobbit</name>
+		<preis>19.90</preis>
+	</artikel>
+	<artikel nummer="3003">
+		<name>Grimms Märchen</name>
+		<preis>25.90</preis>
+	</artikel>
+	<artikel nummer="4004">
+		<name>Eric von Menibonee</name>
+		<preis>29.90</preis>
+	</artikel>
+</artikeldaten>
